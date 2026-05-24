@@ -47,4 +47,9 @@ Dibs had accumulated large volumes of transaction data but lacked the analytical
 - **Visualisations:** Histograms, Box plots, Bar charts, Scatter plots, Pie charts, Line charts
 
 ---
+| File | Description |
+|---|---|
+| `Analysis_notebook.ipynb` | Full analysis notebook with code and visualisations |
+| `report.pdf` | Written report with findings and recommendations |
+| `customer_shopping_data.csv` | Raw dataset used for analysis |
 
